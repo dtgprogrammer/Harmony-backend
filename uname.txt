@@ -1,0 +1,3 @@
+ayush6678
+L1jE8YPBHHf3lrc7
+mongodb+srv://ayush6678:<password>@cluster0.zhcp1te.mongodb.net/?retryWrites=true&w=majority
